@@ -1,6 +1,0 @@
-# Ignorar arquivos grandes e binários
-*.exe
-*.pkg
-/build/
-__pycache__/
-*.pyc
